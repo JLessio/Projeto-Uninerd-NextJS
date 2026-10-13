@@ -1,0 +1,1 @@
+﻿# Projeto-Uninerd-NextJS
